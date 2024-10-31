@@ -1,0 +1,27 @@
+.qntn-countdown-type div {
+     max-width: 150px;
+     padding-left: 10px;
+     padding-right: 10px;
+ }
+.qntn-connect-button {
+    background-color: inherit;
+    margin-top: 18px;
+}
+.qntn-expiration-time-left-text {
+    color: green;
+}
+.qntn-page-expire-time-text {
+    color: red;
+}
+.qntn-form input[type="text"] {
+    width: 25em;
+    height: 28px;
+}
+.qntn-form input[type="email"] {
+    width: 25em;
+    height: 28px;
+}
+.qntn-form label {
+    display: block;
+    width:  25em;
+}

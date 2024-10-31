@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quentn wp\n"
+"POT-Creation-Date: 2019-08-09 13:39+0200\n"
+"PO-Revision-Date: 2019-08-09 13:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: Quentn GmbH\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: vendor\n"
+"X-Poedit-SearchPathExcluded-1: .git\n"
+
+#: Description of the plugin
+msgid "This plugin allows you to restrict access to specific pages, create custom access links and create dynamic page countdowns. Optionally, you can connect your Quentn account to your WordPress installation to share contacts and manage access restrictions through Quentn."
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:188
+msgid "Choose Quentn Tags"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:189
+#: includes/class-quentn-wp-access-overview-list.php:141
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:207
+msgid "Quentn"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:209
+msgid "Quentn Integration"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:209
+msgid "Integration"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:211
+msgid "Access Pages Restrictions"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:211
+msgid "Access Restrictions"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:215
+msgid "Quentn User Access"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:215
+#: includes/class-quentn-wp-page-restrictions-list.php:181
+msgid "Access"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:239
+#, php-format
+msgid "%d user access is deleted"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:239
+#, php-format
+msgid "%d user accesses are deleted"
+msgstr ""
+
+
+#: admin/class-quentn-wp-admin.php:246
+msgid "Data is deleted successfully"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:249
+#, php-format
+msgid "There is no data found with the email address %s"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:254
+msgid "User access has been added successfully"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:259
+msgid "Please enter valid email address"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:264
+msgid "Quentn account has been removed"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:271
+msgid "User access could not be added"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:355
+msgid "Web Tracking Settings"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:361
+msgid "Select Quentn Tags"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:388
+msgid "Redirect after auto login"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:391
+#: admin/partials/quentn-wp-dashboard.php:17
+msgid "Web Tracking"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:400
+msgid "Consent Method"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:433
+msgid "Please Select Tags"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:473
+#, php-format
+msgid "You need to install the plugin %s to support Quentn cookies. You can download the plugin"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:475 admin/class-quentn-wp-admin.php:527
+msgid "here"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:526
+#, php-format
+msgid "To create multiple user roles and define different permissions, you must install the plugin %s. You can download the plugin"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:785
+msgid "Confirm By Server"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:786
+msgid "Cookie Notice"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:787
+msgid "Quentn Overlay"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:811
+#, php-format
+msgid "Create or update Quentn contact if user receives role %s , with the following tags"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:837
+#, php-format
+msgid "Remove tags if user looses the role %s"
+msgstr ""
+
+#: admin/class-quentn-wp-admin.php:859
+msgid "Redirect user to this page after auto login."
+msgstr ""
+
+#: admin/partials/quentn-delete-user-data.php:22
+#: admin/partials/quentn-delete-user-data.php:24
+#: includes/class-quentn-wp-access-overview-list.php:92
+#: includes/class-quentn-wp-access-overview-list.php:421
+msgid "Email"
+msgstr ""
+
+#: admin/partials/quentn-delete-user-data.php:33
+#: includes/class-quentn-wp-access-overview-list.php:100
+#: includes/class-quentn-wp-access-overview-list.php:141
+#: includes/class-quentn-wp-access-overview-list.php:159
+#: includes/class-quentn-wp-access-overview-list.php:187
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/quentn-delete-user-data.php:26
+msgid "Enter email address to delete related contact data."
+msgstr ""
+
+#: admin/partials/quentn-wp-connect.php:21
+msgid "You are connected to Quentn"
+msgstr ""
+
+#: admin/partials/quentn-wp-connect.php:24
+#, php-format
+msgid "You are connected to Quentn host %s"
+msgstr ""
+
+#: admin/partials/quentn-wp-connect.php:27
+msgid "Update Quentn account"
+msgstr ""
+
+#: admin/partials/quentn-wp-connect.php:28
+msgid "Remove Quentn account"
+msgstr ""
+
+#: admin/partials/quentn-wp-connect.php:32
+msgid "Connect to Quentn"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:10
+msgid "Quentn Options"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:15
+msgid "Connect"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:16
+msgid "Roles"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:18
+msgid "Delete User Data"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:18
+msgid "Misc"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:30
+msgid "You are not connected to Quentn"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:33
+#: includes/class-quentn-wp-api-handler.php:153
+msgid "Please connect a Quentn account to use this feature"
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:76
+#, php-format
+msgid "Could not find %s at the connected Quentn server.  Please add %s as tracked domain in order to use this feature."
+msgstr ""
+
+#: admin/partials/quentn-wp-dashboard.php:105
+msgid "Delete contact data"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:93
+msgid "Created"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:98
+msgid "Valid Until"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:101
+msgid "View Access"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:143
+msgid "Copy URL"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:145
+#: includes/class-quentn-wp-page-restrictions-list.php:98
+msgid "no value"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:245
+msgid "Remaining time until expiration"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:247
+msgid "Ago page has expired"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:293
+msgid "No record avaliable"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:320
+msgid "Access Overview For Page"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:320
+#: includes/class-quentn-wp-access-overview-list.php:431
+msgid "Add Access"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:408
+#, php-format
+msgid "Access Overview For Page %s"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:411
+msgid "Search Email"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Year"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Years"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Month"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Months"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Days"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Day"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Hour"
+msgstr ""
+
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Minute"
+msgstr ""
+
+#: includes/class-quentn-wp-activator.php:45
+#, php-format
+msgid "Quentn requires PHP version 5.6.0 or higher"
+msgstr ""
+
+#: includes/class-quentn-wp-api-handler.php:217
+msgid "Tracking is not enabled from your quentn host"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:30
+msgid "Quentn Page Restriction"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:100
+msgid "Activate page Restriction"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:101
+#: includes/class-quentn-wp-manage_meta_box.php:108
+msgid "Help"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:101
+msgid "Page will only be accessible by invite users"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:107
+msgid "Use Countdown"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:108
+msgid "Page will only be accessible for a certain period of time"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:113
+#: includes/class-quentn-wp-page-restrictions-list.php:181
+msgid "Countdown"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:117
+#, php-format
+msgid "You can use the shortcode %s in your page to display the countdown timer at a point of your choice."
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:119
+msgid "Select type"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:121
+msgid "Relative"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:122
+msgid "Absolute"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:129
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Hours"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:133
+#: includes/class-quentn-wp-access-overview-list.php:446
+msgid "Minutes"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:137
+msgid "Seconds"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:143
+msgid "Countdown starts when permission has been granted."
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:148
+msgid "Countdown starts on the first visit. This works without access permission."
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:156
+msgid "Date"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:157
+msgid "Select date"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:164
+msgid "Display countdown on top of page"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:166
+msgid "If this option is disabled, no countdown is displayed."
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:174
+msgid "Countdown stays on the top while the page scrolls"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:184
+msgid "Redirection"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:187
+msgid "Select restriction type"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:189
+#: includes/class-quentn-wp-manage_meta_box.php:196
+msgid "Message"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:190
+msgid "URL"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:212
+#: includes/class-quentn-wp-admin.php:435
+msgid "Redirect URL"
+msgstr ""
+
+#: includes/class-quentn-wp-manage_meta_box.php:213
+msgid "Enter URL"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:17
+msgid "Page"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:18
+msgid "Pages"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:70
+msgid "Page Title"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:71
+msgid "Restriction Type"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:72
+msgid "Access Links"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:96
+#: includes/class-quentn-wp-page-restrictions-list.php:112
+msgid "Show Access"
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:219
+msgid "To create access restricted pages, please check your page's settings."
+msgstr ""
+
+#: includes/class-quentn-wp-page-restrictions-list.php:251
+msgid "List of Pages With Limited Access"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:260
+#, php-format
+msgid "Error Creating User %s"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:269
+#: includes/class-quentn-wp-rest-api-controller.php:301
+msgid "Permissions Timer Successfully Updated"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:423
+msgid "There must be valid email address"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:476
+msgid "Time has expired"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:487
+msgid "API key is not valid"
+msgstr ""
+
+#: includes/class-quentn-wp-rest-api-controller.php:487
+msgid "Incorrect Api Key"
+msgstr ""
+
+#: includes/class-quentn-wp-restrict-access.php:94
+msgid "Access denied"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:66
+msgid "API Credentials"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:82
+msgid "Use this field to set a custom API Key for the current form"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:94
+msgid "Use this field to set a custom API URL for the current form"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:104
+msgid "Add Tags"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:116
+msgid "Field Mapping"
+msgstr ""
+
+
+msgid "New Tags"
+msgstr ""
+
+msgid "Add as many tags as you want, comma separated"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:154
+msgid "Quentn Integration requires an email field"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:154
+msgid "To integrate with our forms you need an %s"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:154
+msgid "API Key"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:186
+msgid "Flood Protection"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:191
+msgid "Enter the maximum form submissions per hour and unique IP-Address (default: 5, 0 to diable)"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:200
+msgid "Use Spam Protection"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:202
+msgid "Form submissions of known Spam-Bots will be ignored"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:212
+msgid "Quentn Redirect"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:221
+msgid "Redirection URL (default Redirection)"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:229
+msgid "Redirection URL for confirmed contact"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:237
+msgid "Attach contact info to URL"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:239
+msgid "Attaches Contact's ID and Email to the URL. This is used for tracking tools (e.g. splittest tools) to verify the opt-in."
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:452
+msgid "Validate API Key"
+msgstr ""
+
+#: includes/class-quentn-wp-elementor-integration.php:452
+msgid "<strong>ERROR</strong>: Link invalid. Email '%s' does not exist."
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Save logs in the database."
+msgstr ""
+
+msgid "Miscellaneous Options"
+msgstr ""
+
+msgid "Expiration"
+msgstr ""
+
+msgid "Number of days to keep the logs."
+msgstr ""
+
+msgid "Permissions successfully updated"
+msgstr ""
+
+msgid "User access could not be deleted."
+msgstr ""
